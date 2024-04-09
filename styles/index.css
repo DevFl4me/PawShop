@@ -10,3 +10,6 @@
     --corPreta:#000000;
     --corBranca:#FFFFFF;
 }
+header nav{
+    background-color: var(--corAzul);
+}
