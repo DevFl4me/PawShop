@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;   
+}
+:root{
+    --corAzul:#6EB3D0;
+    --corVerde:#B6D7A8;
+    --corRosa:#F7B6D2;
+    --corLaranja:#F4A623;
+    --corPreta:#000000;
+    --corBranca:#FFFFFF;
+}
