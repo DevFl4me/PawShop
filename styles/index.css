@@ -13,3 +13,10 @@
 header nav{
     background-color: var(--corAzul);
 }
+.color-button{
+    background-color: #F7B6D2;
+    border: none;
+}
+.color-button:hover{
+    background-color: #ff6dac;
+}
