@@ -42,3 +42,6 @@ header nav{
 #adote{
     color: var(--corRosa);
 }
+#colorText{
+    color: var(--corAzul);
+}
